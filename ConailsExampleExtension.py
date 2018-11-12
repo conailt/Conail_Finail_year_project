@@ -20,6 +20,8 @@ i18n_catalog = i18nCatalog("ConailsExampleExtension")
 
 
 
+
+
 class ConailsExampleExtension(Extension): #Extension inherits from PluginObject, and provides some useful helper functions for adding an item to the application menu.
     ##  Creates an instance of this extension. This is basically the starting
     #   point of your code.
